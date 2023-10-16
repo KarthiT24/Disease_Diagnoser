@@ -1,4 +1,4 @@
-# Disease Diagnoser Project
+# Disease Diagnoser
 
 ## Introduction
 
